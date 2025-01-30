@@ -1,10 +1,10 @@
-<h2>Api ainda em construção, faltando a parte de testes!!</h2>
-
 <h2><strong>API DE CONTATOS</strong></h2>
 
 <h4>MÓDULO 1 DA PÓS EM ARQUITETURA DE SOFTWARE </h4>
 
 <p>API CONSTRUIDA COM .NET 8 E COM O PADRÃO DE ARQUITETURA DDD (Domain-Driven Design)</p>
+
+<p>APi Criada com DataBase First</p>
 
 <p><strong>Descrição:</strong>
 
